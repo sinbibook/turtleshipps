@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-12T06:19:08.155Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-12T06:48:39.555Z",
     "templateType": "full_banner_accordion",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -1308,9 +1308,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "여수 거북선펜션",
+      "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳",
+      "keywords": "여수여행,여수펜션,거북선펜션,여수오션뷰,여수숙소추천"
     },
     "socialLinks": {},
     "customFields": {
@@ -1319,8 +1319,38 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "여수 거북선펜션",
+                "images": [
+                  {
+                    "id": "7861a4e6-39fd-46c2-abd2-315ed084701a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463860-dxtk1i57sx8.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "9df7eb78-df0a-4747-80ca-af1ed5b19ddd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-35309rsfcxz.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "62e201e7-bda4-46ff-8c75-18fdca7b2721",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-ihgp4aywibp.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a8ef6de4-e500-4ca0-a364-ee78c905e1d6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-uegx2t5darf.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳"
               },
               "closing": {
                 "title": "",
@@ -1399,10 +1429,10 @@
             "family": "Cormorant"
           },
           "koMain": {
-            "cdn": null,
-            "key": "aritaburi",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff",
-            "family": "Aritaburi"
+            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
+            "key": "notoserifKR",
+            "woff2": null,
+            "family": "Noto Serif KR"
           }
         },
         "color": null
@@ -4016,6 +4046,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "480c9007-a70a-4ddb-a256-728a32ade242"
   }
 }
