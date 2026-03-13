@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.7.0",
-    "generatedAt": "2026-03-13T06:46:54.100Z",
+    "version": "1.8.0",
+    "generatedAt": "2026-03-13T06:56:35.100Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -269,8 +269,94 @@
     },
     "images": [
       {
-        "thumbnail": [],
-        "exterior": [],
+        "thumbnail": [
+          {
+            "id": "6c3c7521-3758-4f1e-8b7a-92dc887b9d68",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/thumbnail/1773384760886-pdidjkad45m.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          }
+        ],
+        "exterior": [
+          {
+            "id": "2c550996-099f-446b-9058-43a8c9c494d2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-4k8klb6amms.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ef515d34-302d-4422-99f2-0bb752c5448d",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-4du9cyl99h.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "e1c23d0b-ad69-4291-b010-905a7cfa6a99",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760888-foomxj5gtll.jpg",
+            "sortOrder": 9,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "320695a1-67f0-4dd3-a9d1-029bc130eff2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-b5x4aasa95c.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "49bd007d-5cb4-4c89-96fc-e2dd73cc6d48",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-u5tm1zszi4.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "1141bf1b-c3b0-4d06-9844-02cdc1930105",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760888-y5nqc7s97q.jpg",
+            "sortOrder": 7,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dd451df2-7501-4ce2-9664-a2bf81c14ffd",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-mhmc9636r3i.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4ea611db-7dbb-43b3-842d-952ba5aa8cc0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760888-g41iha49lja.jpg",
+            "sortOrder": 10,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "f11ec4ea-e220-47ea-825a-d926fb0ea06c",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-z7myz52t4q.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "ea94d941-2c98-44c4-a425-f245c489989e",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760888-1d8aoi23gmc.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "9f166606-a0f1-43f3-8610-10edeec66f3b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/property/1fcefb68-cd69-4b31-96eb-e1d4b86795e1/exterior/1773384760887-dx7qrud0ybd.jpg",
+            "sortOrder": 6,
+            "description": "",
+            "isSelected": true
+          }
+        ],
         "surrounding": [],
         "commonArea": []
       }
@@ -1568,7 +1654,7 @@
                     "isSelected": true
                   }
                 ],
-                "description": "여수 거북선 펜션의 다양한 매력을 미리 만나보세요"
+                "description": "여수 거북선 펜션에서 머물며 만나는 낭만의 순간을 미리 만나보세요"
               },
               "signature": {
                 "title": "",
