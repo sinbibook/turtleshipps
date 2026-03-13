@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.6.0",
-    "generatedAt": "2026-03-13T06:41:45.186Z",
+    "version": "1.7.0",
+    "generatedAt": "2026-03-13T06:46:54.100Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -1490,7 +1490,7 @@
                 "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳"
               },
               "closing": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "29469b11-9c44-419f-b690-21a1ca3cb821",
@@ -1499,7 +1499,8 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": " "
               },
               "essence": {
                 "title": "여수 거북선 펜션",
@@ -1529,8 +1530,45 @@
                 "description": "거북선대교 아래, 낭만포차거리 바로 앞 최고의 위치\n객실에서 즐기는 탁 트인 여수 바다 전망\n여수 밤바다와 낭만포차 감성을 도보로 즐기는 여행\n먹거리·볼거리 가득한 여수 여행 중심 숙소\n여수의 낭만을 가장 가까이에서 머무는 특별한 공간\n"
               },
               "gallery": {
-                "title": "",
-                "images": []
+                "title": "Preview",
+                "images": [
+                  {
+                    "id": "179f0529-d964-4815-bcd5-0ff01e86a5fb",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773384159789-6tdu0ftkkju.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "f7f4048b-5f69-44ae-abb0-e285c0ba1d9e",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773384159789-eyjy9d3m5ot.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "3ad85f4a-d38e-4503-93b0-c111820c54a1",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773384159790-u188z48cpfn.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "df378f69-31a2-4a19-b37b-18992d0348d9",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773384159790-2b6wqoljmxe.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "5fcab288-f284-4f59-bff4-bd65741e5670",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773384159790-u9g9aozj8d.jpg",
+                    "sortOrder": 4,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "여수 거북선 펜션의 다양한 매력을 미리 만나보세요"
               },
               "signature": {
                 "title": "",
@@ -4367,6 +4405,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "480c9007-a70a-4ddb-a256-728a32ade242"
   }
 }
