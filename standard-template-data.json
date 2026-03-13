@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-03-12T06:19:08.155Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-03-13T03:42:54.703Z",
     "templateType": "full_banner_accordion",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -77,7 +77,50 @@
         "description": "여수 밤바다를 배경으로 숯불 바베큐 파티를 즐겨보세요.",
         "usageGuide": "- 이용 장소: 5층 옥상정원 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금:  2~4인 : 20,000원 / 5~8인 : 40,000원 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 주의사항:바베큐는 한 턴에 8팀만 가능하기떄문에 선착순으로 예약가능\n※ 현장결제",
         "displayOrder": 0,
-        "images": []
+        "images": [
+          {
+            "id": "e387a4e8-a52b-42f9-b06b-0135c41b1463",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ce4fdeda-955b-49f3-b13a-d918d9ed4d4e/main/1773371943900-l39d0qy7ivi.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "76d01e1c-c0cb-4bc2-8a18-664499988545",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ce4fdeda-955b-49f3-b13a-d918d9ed4d4e/main/1773371943990-ztt1vlk3i8.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "6ead08df-3a2b-42f8-9288-3237439285a0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ce4fdeda-955b-49f3-b13a-d918d9ed4d4e/main/1773371943999-k9rbkte41v.jpg",
+            "sortOrder": 5,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "4d2bafc4-c7d9-4e11-a795-5ad4bc389223",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ce4fdeda-955b-49f3-b13a-d918d9ed4d4e/main/1773371943999-dt821rg5ua7.jpg",
+            "sortOrder": 4,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "cde2a65e-f132-4677-b057-f49862e7e3e9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ce4fdeda-955b-49f3-b13a-d918d9ed4d4e/main/1773371943990-swqdhbmckn.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "dc06f27d-0bab-427d-9dca-82d42b08a401",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/ce4fdeda-955b-49f3-b13a-d918d9ed4d4e/main/1773371943990-nxt7njs6cci.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "e928b673-909e-4311-824f-49a0302c002f",
@@ -85,7 +128,36 @@
         "description": "일부 객실 내에서 개별 테라스바베큐가 가능합니다. (가스버너)",
         "usageGuide": "- 이용 객실:  21호,22호,23호,24호,32호,33호,34호,35호,36호,37호,38호,42호,43호,44호,45호,46호 \n- 이용 장소: 개별 테라스\n- 바베큐 형태: 가스+버너\n- 이용 요금:  1SET 10,000원 / 인원수 무관 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 현장결제",
         "displayOrder": 1,
-        "images": []
+        "images": [
+          {
+            "id": "5c458444-da4a-420d-8c4a-4907571152db",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e928b673-909e-4311-824f-49a0302c002f/main/1773372020697-x990vg9qgbo.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "2b0e6cf6-9557-4ffd-b147-9ee79384c67b",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e928b673-909e-4311-824f-49a0302c002f/main/1773372020697-8b4q5el61hl.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "fb4b70aa-b21e-41bc-a832-9a902c1fe744",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e928b673-909e-4311-824f-49a0302c002f/main/1773372020697-c6vz1g1h74w.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "b2d4eb7c-9be0-4f29-a7bf-e4d94e9b4285",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e928b673-909e-4311-824f-49a0302c002f/main/1773372020697-7dnksa33z9i.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "f74280b1-8ed7-4206-9849-85dfbb654bd0",
@@ -93,7 +165,22 @@
         "description": "객실 내 스파시설입니다.",
         "usageGuide": "- 이용 객실: 45호, 46호\n- 이용 요금: 5만원 (1박기준/현장결제)\n- 이용 시간: 입실 후~22:00\n※ 입욕제 이용불가\n※ 현장결제\n",
         "displayOrder": 2,
-        "images": []
+        "images": [
+          {
+            "id": "549faf99-8f80-477b-be9b-9572599e21e9",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773372679136-8fogmfqnx4f.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "8f53e440-314d-4501-9b34-adb31cd6f6f0",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773372679136-xqsu9fndpel.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       },
       {
         "id": "0ddf6ef8-8eec-4724-9f78-5895f159386b",
@@ -101,7 +188,36 @@
         "description": "여수 밤바다와 거북선대교가 눈앞에 펼쳐지는 오션뷰 테라스 ",
         "usageGuide": "- 여수 밤바다와 거북선대교의 야경을 감상할 수 있는 개별 테라스가 준비되어 있습니다.\n※ 25, 26, 31, 41호는 테라스 없음 ",
         "displayOrder": 3,
-        "images": []
+        "images": [
+          {
+            "id": "806e1f80-dcfb-4813-83b8-2123aae35311",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf6ef8-8eec-4724-9f78-5895f159386b/main/1773373275445-fz69czau49j.jpg",
+            "sortOrder": 0,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "3449ec67-9f84-4e63-9314-9dbb50091de1",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf6ef8-8eec-4724-9f78-5895f159386b/main/1773373275446-g4l1tmiw7mr.jpg",
+            "sortOrder": 1,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "bbfa0147-7415-4034-81e4-fa54bb60decb",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf6ef8-8eec-4724-9f78-5895f159386b/main/1773373275446-dq5z7owhgr.jpg",
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "da41a5a9-927b-4678-962c-a5c9235137b2",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/0ddf6ef8-8eec-4724-9f78-5895f159386b/main/1773373275446-bt0235ezwsh.jpg",
+            "sortOrder": 3,
+            "description": "",
+            "isSelected": true
+          }
+        ]
       }
     ],
     "refundPolicies": [
@@ -1308,9 +1424,9 @@
       }
     ],
     "seo": {
-      "title": "",
-      "description": "",
-      "keywords": ""
+      "title": "여수 거북선펜션",
+      "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳",
+      "keywords": "여수여행,여수펜션,거북선펜션,여수오션뷰,여수숙소추천"
     },
     "socialLinks": {},
     "customFields": {
@@ -1319,8 +1435,38 @@
           "sections": [
             {
               "hero": {
-                "title": "",
-                "images": []
+                "title": "여수 거북선펜션",
+                "images": [
+                  {
+                    "id": "7861a4e6-39fd-46c2-abd2-315ed084701a",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463860-dxtk1i57sx8.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "9df7eb78-df0a-4747-80ca-af1ed5b19ddd",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-35309rsfcxz.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "62e201e7-bda4-46ff-8c75-18fdca7b2721",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-ihgp4aywibp.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "a8ef6de4-e500-4ca0-a364-ee78c905e1d6",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-uegx2t5darf.jpg",
+                    "sortOrder": 3,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳"
               },
               "closing": {
                 "title": "",
@@ -1399,10 +1545,10 @@
             "family": "Cormorant"
           },
           "koMain": {
-            "cdn": null,
-            "key": "aritaburi",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_one@1.0/Arita-buri-SemiBold.woff",
-            "family": "Aritaburi"
+            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
+            "key": "notoserifKR",
+            "woff2": null,
+            "family": "Noto Serif KR"
           }
         },
         "color": null
