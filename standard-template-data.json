@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.4.0",
-    "generatedAt": "2026-03-13T03:54:36.832Z",
+    "version": "1.5.0",
+    "generatedAt": "2026-03-13T06:40:21.146Z",
     "templateType": "full_banner_accordion",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -1438,58 +1438,51 @@
                 "title": "여수 거북선펜션",
                 "images": [
                   {
-                    "id": "7861a4e6-39fd-46c2-abd2-315ed084701a",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463860-dxtk1i57sx8.jpg",
-                    "sortOrder": 0,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "ca8e202d-781c-4a18-a1f1-578f4284b3ea",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773373781069-t6swifetxo8.jpg",
-                    "sortOrder": 1,
+                    "sortOrder": 0,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "9df7eb78-df0a-4747-80ca-af1ed5b19ddd",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-35309rsfcxz.jpg",
-                    "sortOrder": 2,
+                    "sortOrder": 1,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "62e201e7-bda4-46ff-8c75-18fdca7b2721",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-ihgp4aywibp.jpg",
-                    "sortOrder": 3,
+                    "sortOrder": 2,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "0d8e6a1c-d6f6-4abf-86f6-c90a6e23da29",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773373781070-l36p9cxncaq.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "6ef4dfc7-cad7-41f9-9e7f-f1cb1a6bd5ec",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773373781070-th5zn9qs62n.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "a8ef6de4-e500-4ca0-a364-ee78c905e1d6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-uegx2t5darf.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b3ba880b-9102-4638-ada4-5fe6995c1456",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773373781070-9okipqwes8e.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
@@ -1509,8 +1502,31 @@
                 ]
               },
               "essence": {
-                "title": "",
-                "images": []
+                "title": "여수 거북선 펜션",
+                "images": [
+                  {
+                    "id": "4132952c-9bc2-47fb-ad4b-c9e756340796",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_essence/1773383014070-47216ho6fnk.jpg",
+                    "sortOrder": 0,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "17aaf93a-8659-47e4-8e98-852378a65d40",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_essence/1773383014071-8ijv5tnobmr.jpg",
+                    "sortOrder": 1,
+                    "description": "",
+                    "isSelected": true
+                  },
+                  {
+                    "id": "75c777b6-e6a7-4c0c-8d9b-a7503dfba54b",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_essence/1773383248453-oxdhm1slaw.jpg",
+                    "sortOrder": 2,
+                    "description": "",
+                    "isSelected": true
+                  }
+                ],
+                "description": "거북선대교 아래, 낭만포차거리 바로 앞 최고의 위치\n객실에서 즐기는 탁 트인 여수 바다 전망\n여수 밤바다와 낭만포차 감성을 도보로 즐기는 여행\n먹거리·볼거리 가득한 여수 여행 중심 숙소\n여수의 낭만을 가장 가까이에서 머무는 특별한 공간\n"
               },
               "gallery": {
                 "title": "",
@@ -1527,11 +1543,11 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": "오시는 길",
                 "images": [
                   {
-                    "id": "6d2b25f7-ac7f-4f80-8ff2-85a7447593a6",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/directions_hero/1773373945152-ervb3p4t565.jpg",
+                    "id": "732e7ff1-8835-43a2-a923-e73bd71c7c1c",
+                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/directions_hero/1773383897468-bl5xega80c.jpg",
                     "sortOrder": 0,
                     "description": "",
                     "isSelected": true
@@ -1549,7 +1565,7 @@
           "sections": [
             {
               "hero": {
-                "title": "",
+                "title": " ",
                 "images": [
                   {
                     "id": "32c126f3-fc9f-4fc8-920c-0eef59491485",
@@ -1558,9 +1574,41 @@
                     "description": "",
                     "isSelected": true
                   }
-                ]
+                ],
+                "description": "거북선대교 아래, 낭만포차거리 바로 앞 최고의 위치\n객실에서 즐기는 탁 트인 여수 바다 전망\n여수 밤바다와 낭만포차 감성을 도보로 즐기는 여행\n먹거리·볼거리 가득한 여수 여행 중심 숙소\n여수의 낭만을 가장 가까이에서 머무는 특별한 공간"
               },
-              "about": []
+              "about": [
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "0f76fefd-aa7c-4c5e-86a2-3fd53304cb4b",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/main_about/1773383439660-viq9zhlj5gt.jpg",
+                      "sortOrder": 0,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "6e0059dc-6c09-48a5-b76b-270345345e79"
+                    }
+                  ],
+                  "blockId": "6e0059dc-6c09-48a5-b76b-270345345e79",
+                  "description": "거북선대교 아래 펼쳐지는 아름다운 여수 바다\n전 객실에서 여수 바다와 낭만적인 풍경을 \n한눈에 담는 특별한 휴식 공간 🌊"
+                },
+                {
+                  "title": " ",
+                  "images": [
+                    {
+                      "id": "0b4c90b3-0669-4405-8d80-ce4c52496f31",
+                      "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/main_about/1773383658572-cdwf18eo77m.jpg",
+                      "sortOrder": 1,
+                      "description": "",
+                      "isSelected": true,
+                      "blockId": "0d1beb1d-e2e1-4c73-9611-3066e6b26795"
+                    }
+                  ],
+                  "blockId": "0d1beb1d-e2e1-4c73-9611-3066e6b26795",
+                  "description": "여수 밤바다와 낭만포차의 분위기를 걸어서 만나는 여행\n먹거리와 볼거리가 가득한 \n여수 중심에서 즐기는 특별한 휴식🌙"
+                }
+              ]
             }
           ]
         },
@@ -1582,9 +1630,9 @@
                 ]
               },
               "about": {
-                "title": "",
+                "title": " ",
                 "images": [],
-                "description": ""
+                "description": " "
               }
             }
           ]
@@ -1629,7 +1677,7 @@
           {
             "id": "6c9b5abb-f177-45e7-a32c-ce6f61106984",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/property_exterior/1773374069826-g7wtf07xkc.jpg",
-            "sortOrder": 1,
+            "sortOrder": 0,
             "description": "",
             "isSelected": true,
             "category": "property_exterior"
