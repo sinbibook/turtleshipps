@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.10.0",
-    "generatedAt": "2026-03-13T07:09:37.916Z",
+    "version": "1.11.0",
+    "generatedAt": "2026-03-13T07:13:34.707Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -169,14 +169,21 @@
           {
             "id": "549faf99-8f80-477b-be9b-9572599e21e9",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773372679136-8fogmfqnx4f.jpg",
-            "sortOrder": 0,
+            "sortOrder": 1,
             "description": "",
             "isSelected": true
           },
           {
             "id": "8f53e440-314d-4501-9b34-adb31cd6f6f0",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773372679136-xqsu9fndpel.jpg",
-            "sortOrder": 1,
+            "sortOrder": 2,
+            "description": "",
+            "isSelected": true
+          },
+          {
+            "id": "5e5d5a29-8726-48c6-a951-43936dc732c8",
+            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773385955272-yu1xtb72e88.jpg",
+            "sortOrder": 0,
             "description": "",
             "isSelected": true
           }
@@ -1777,13 +1784,16 @@
             "family": "Cormorant"
           },
           "koMain": {
-            "cdn": "https://fonts.cdnfonts.com/css/noto-serif-kr",
-            "key": "notoserifKR",
-            "woff2": null,
-            "family": "Noto Serif KR"
+            "cdn": null,
+            "key": "gyeonggimillenniumbackground",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2410-3@1.0/Batang_Regular.woff",
+            "family": "GyeonggiMillenniumBackground"
           }
         },
-        "color": null
+        "color": {
+          "primary": "#F6F3EE",
+          "secondary": "#724A31"
+        }
       },
       "popup": {
         "popups": []
