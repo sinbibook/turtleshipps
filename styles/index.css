@@ -445,6 +445,11 @@
 
 /* 모바일에서 세로줄 숨김 */
 @media (max-width: 768px) {
+    .hero-section {
+        height: 70vh;
+        min-height: 70vh;
+    }
+
     .essence-text-content::after {
         display: none;
     }
