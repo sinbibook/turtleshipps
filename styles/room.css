@@ -1422,8 +1422,13 @@
     /* Mobile banner */
     .full-banner {
         background-attachment: scroll !important;
-        height: 400px;
+        height: 320px;
+        min-height: 320px;
         margin: 50px 0;
+    }
+
+    .full-banner[data-room-banner] {
+        min-height: 320px;
     }
 
     .full-banner .property-en-bg-text {

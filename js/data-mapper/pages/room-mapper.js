@@ -507,7 +507,9 @@ class RoomMapper extends BaseDataMapper {
         bannerSection.style.backgroundPosition = 'center';
         bannerSection.style.backgroundRepeat = 'no-repeat';
         bannerSection.style.backgroundAttachment = 'fixed';
-        bannerSection.style.height = '600px';
+        if (window.innerWidth <= 768) {
+            bannerSection.style.height = '320px';
+        }
 
         // animate-on-scroll 오버라이드
         bannerSection.style.opacity = '1';

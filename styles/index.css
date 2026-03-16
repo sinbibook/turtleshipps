@@ -1325,6 +1325,11 @@
 
 /* Closing Section Mobile */
 @media (max-width: 768px) {
+    .closing-section {
+        height: 50vh;
+        min-height: 300px;
+    }
+
     .closing-content {
         padding-left: 40px;
         gap: 30px;
