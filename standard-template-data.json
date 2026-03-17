@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.18.0",
-    "generatedAt": "2026-03-16T09:28:19.998Z",
+    "version": "1.19.0",
+    "generatedAt": "2026-03-17T05:35:54.083Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -140,36 +140,6 @@
             "id": "b2d4eb7c-9be0-4f29-a7bf-e4d94e9b4285",
             "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/e928b673-909e-4311-824f-49a0302c002f/main/1773372020697-7dnksa33z9i.jpg",
             "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          }
-        ]
-      },
-      {
-        "id": "f74280b1-8ed7-4206-9849-85dfbb654bd0",
-        "name": "스파",
-        "description": "객실 내 스파시설입니다.",
-        "usageGuide": "- 이용 객실: 45호, 46호\n- 이용 요금: 5만원 (1박기준/현장결제)\n- 이용 시간: 입실 후~22:00\n※ 입욕제 이용불가\n※ 현장결제\n",
-        "displayOrder": 2,
-        "images": [
-          {
-            "id": "549faf99-8f80-477b-be9b-9572599e21e9",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773372679136-8fogmfqnx4f.jpg",
-            "sortOrder": 1,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "8f53e440-314d-4501-9b34-adb31cd6f6f0",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773372679136-xqsu9fndpel.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true
-          },
-          {
-            "id": "5e5d5a29-8726-48c6-a951-43936dc732c8",
-            "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/facility/f74280b1-8ed7-4206-9849-85dfbb654bd0/main/1773385955272-yu1xtb72e88.jpg",
-            "sortOrder": 0,
             "description": "",
             "isSelected": true
           }
@@ -1633,37 +1603,30 @@
                     "isSelected": true
                   },
                   {
-                    "id": "6ef4dfc7-cad7-41f9-9e7f-f1cb1a6bd5ec",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773373781070-th5zn9qs62n.jpg",
-                    "sortOrder": 3,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "62e201e7-bda4-46ff-8c75-18fdca7b2721",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-ihgp4aywibp.jpg",
-                    "sortOrder": 4,
+                    "sortOrder": 3,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "a8ef6de4-e500-4ca0-a364-ee78c905e1d6",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773296463861-uegx2t5darf.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "f2c75ed7-03ab-40d5-8fd0-11f26632a1c1",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773391769561-ipfbtbxiuw.jpg",
-                    "sortOrder": 6,
+                    "sortOrder": 5,
                     "description": "",
                     "isSelected": true
                   },
                   {
                     "id": "b3ba880b-9102-4638-ada4-5fe6995c1456",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_hero/1773373781070-9okipqwes8e.jpg",
-                    "sortOrder": 7,
+                    "sortOrder": 6,
                     "description": "",
                     "isSelected": true
                   }
@@ -1742,16 +1705,9 @@
                     "isSelected": true
                   },
                   {
-                    "id": "9bc0c619-9c14-4c5d-a344-de49d82b51c8",
-                    "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773632599926-kj7sqah914s.jpg",
-                    "sortOrder": 4,
-                    "description": "",
-                    "isSelected": true
-                  },
-                  {
                     "id": "f5b11d53-243f-4f8a-9111-fa1023d33e1c",
                     "url": "https://jlnjajtcnyqupfaqjerz.supabase.co/storage/v1/object/public/app-images/homepage/480c9007-a70a-4ddb-a256-728a32ade242/index_gallery/1773632599926-w1aieadn2e.jpg",
-                    "sortOrder": 5,
+                    "sortOrder": 4,
                     "description": "",
                     "isSelected": true
                   }
@@ -4747,6 +4703,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "480c9007-a70a-4ddb-a256-728a32ade242"
   }
 }
