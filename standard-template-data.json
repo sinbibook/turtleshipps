@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.22.0",
-    "generatedAt": "2026-03-17T06:41:13.816Z",
+    "version": "1.23.0",
+    "generatedAt": "2026-03-18T01:09:16.194Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -228,8 +228,8 @@
       },
       {
         "id": "930889e0-6155-4742-9910-032a9fcb60be",
-        "name": "펜션 부대시설",
-        "description": "[펜션 내 식당]\n- 펜션 1층 '갯뻘소리 낭만포차 77번'\n- 투숙객 10% 할인 제공\n\n[편의점]\n- 펜션 1층에 편의점 위치",
+        "name": "낭만포차 & 편의점",
+        "description": "펜션 1층에 낭만포차 식당과 편의점이 있습니다. \n가까운 곳에서 편리하게 여수의 저녁을 즐겨보세요.",
         "usageGuide": "[펜션 내 식당]\n- 펜션 1층 '갯뻘소리 낭만포차 77번'\n- 투숙객 10% 할인 제공\n\n[편의점]\n- 펜션 1층에 편의점 위치",
         "displayOrder": 5,
         "images": [
@@ -4703,6 +4703,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "480c9007-a70a-4ddb-a256-728a32ade242"
   }
 }
