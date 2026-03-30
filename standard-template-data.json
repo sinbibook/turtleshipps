@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.24.0",
-    "generatedAt": "2026-03-27T05:07:42.671Z",
+    "version": "1.25.0",
+    "generatedAt": "2026-03-30T02:26:44.520Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -14,7 +14,7 @@
     "address": "전라남도 여수시 여수시민로 2 (종화동)",
     "latitude": 34.7364577621108,
     "longitude": 127.749792507406,
-    "contactPhone": "010-4993-1475",
+    "contactPhone": "010-3962-1475",
     "contactEmail": "",
     "checkin": "15:00",
     "checkout": "11:00",
@@ -4701,6 +4701,7 @@
           ]
         }
       ]
-    }
+    },
+    "id": "480c9007-a70a-4ddb-a256-728a32ade242"
   }
 }
