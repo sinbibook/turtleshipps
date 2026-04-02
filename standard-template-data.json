@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.25.0",
-    "generatedAt": "2026-03-30T02:26:44.520Z",
+    "version": "1.26.0",
+    "generatedAt": "2026-04-02T00:55:36.912Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -422,7 +422,7 @@
     "nameEn": "Yeosu Turtleship Pension",
     "domain": "turtleshipps.kr",
     "realtimeBookingId": "https://www.bookingplay.co.kr/booking/1/11148",
-    "ybsId": ""
+    "ybsId": "79802"
   },
   "rooms": [
     {
