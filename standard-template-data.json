@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.28.0",
-    "generatedAt": "2026-08-05T06:50:07.564768340Z",
+    "version": "1.29.0",
+    "generatedAt": "2026-08-06T01:25:21.216119581Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -302,8 +302,8 @@
       {
         "thumbnail": [
           {
-            "id": "9f117a9a-632f-4c2e-bd29-ffad287f88f4",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/UamQbVWOrLof.jpg",
+            "id": "b11ec5db-9533-4345-bb36-c9e474b3ccd1",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/UJH7QS54Asrv.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -312,17 +312,9 @@
         ],
         "exterior": [
           {
-            "id": "b11ec5db-9533-4345-bb36-c9e474b3ccd1",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/UJH7QS54Asrv.jpg",
-            "sortOrder": 2,
-            "description": "",
-            "isSelected": true,
-            "blockId": null
-          },
-          {
             "id": "8ea3bcc0-8946-4d86-a019-b27a1c294107",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/96dSHC32ilTw.jpg",
-            "sortOrder": 3,
+            "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -330,7 +322,7 @@
           {
             "id": "5057dadc-5834-4d06-87ff-aba2ec4ece7a",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/8o4rq1eivMnZ.jpg",
-            "sortOrder": 4,
+            "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -338,7 +330,7 @@
           {
             "id": "dba46ada-1d10-4cd3-8337-8d92e4d33461",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/3GnEf8XYjZ0R.jpg",
-            "sortOrder": 5,
+            "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -346,7 +338,7 @@
           {
             "id": "3b796c85-a9c6-4b89-b788-f5832c0b1cfa",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/FD6z4Y9CINv3.jpg",
-            "sortOrder": 6,
+            "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -354,7 +346,7 @@
           {
             "id": "3f9623d9-1935-4bad-a653-2722a2a4f792",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/Z8fdXl1keWOm.jpg",
-            "sortOrder": 7,
+            "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -362,7 +354,7 @@
           {
             "id": "f1203059-98f4-4bd8-9ada-dddc3d5e7225",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/0xAgGapd1c5U.jpg",
-            "sortOrder": 8,
+            "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -370,7 +362,23 @@
           {
             "id": "51583e5a-6352-42f2-a774-8b0fac069ce2",
             "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/IYTkZpNz03O6.jpg",
+            "sortOrder": 8,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "950fc2fc-b80f-4c18-88c3-a343f722f5fc",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/eraF4sQ3TwWM.jpg",
             "sortOrder": 9,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "6a24157f-4050-4506-8ca4-82b17452111d",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/qEbolVdUpnSe.jpg",
+            "sortOrder": 10,
             "description": "",
             "isSelected": true,
             "blockId": null
@@ -3627,8 +3635,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "여수의 아름다운 바다를 가장 특별하게 만나는 곳"
               },
               "closing": {
                 "title": " ",
@@ -3642,8 +3650,8 @@
                     "blockId": null
                   }
                 ],
-                "description": " ",
-                "videos": [ ]
+                "videos": [ ],
+                "description": " "
               },
               "essence": {
                 "title": "여수 거북선 펜션",
@@ -3673,8 +3681,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "거북선대교 아래, 낭만포차거리 바로 앞 최고의 위치\n객실에서 즐기는 탁 트인 여수 바다 전망\n여수 밤바다와 낭만포차 감성을 도보로 즐기는 여행\n먹거리·볼거리 가득한 여수 여행 중심 숙소\n여수의 낭만을 가장 가까이에서 머무는 특별한 공간\n",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "거북선대교 아래, 낭만포차거리 바로 앞 최고의 위치\n객실에서 즐기는 탁 트인 여수 바다 전망\n여수 밤바다와 낭만포차 감성을 도보로 즐기는 여행\n먹거리·볼거리 가득한 여수 여행 중심 숙소\n여수의 낭만을 가장 가까이에서 머무는 특별한 공간\n"
               },
               "gallery": {
                 "title": "Preview",
@@ -3720,8 +3728,8 @@
                     "blockId": null
                   }
                 ],
-                "description": "여수 거북선 펜션에서 머물며 만나는 낭만의 순간을 미리 만나보세요",
-                "videos": [ ]
+                "videos": [ ],
+                "description": "여수 거북선 펜션에서 머물며 만나는 낭만의 순간을 미리 만나보세요"
               },
               "signature": {
                 "title": "",
