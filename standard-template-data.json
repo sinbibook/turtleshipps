@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.29.0",
-    "generatedAt": "2026-08-06T01:25:21.216119581Z",
+    "version": "1.30.0",
+    "generatedAt": "2026-08-10T05:57:02.752016393Z",
     "templateType": "full_banner_conveyer",
     "propertyId": "1fcefb68-cd69-4b31-96eb-e1d4b86795e1",
     "homepageId": "480c9007-a70a-4ddb-a256-728a32ade242"
@@ -19,7 +19,7 @@
     "checkin": "15:00",
     "checkout": "11:00",
     "checkInOutInfo": "[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.",
-    "usageGuide": "[공지사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 전 객실 반려동물 동반이 불가합니다.\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 19세 이상\n- 아동: 60개월 이상~19세 미만\n- 유아: 60개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 1인당 인원추가비: 성인 20,000원, 아동(만 19세 이하) 10,000원, 유아(만 5세 이하)무료 \n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[공용바베큐]\n- 이용 장소: 5층 옥상정원 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금:  2~4인 : 20,000원 / 5~8인 : 40,000원 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 주의사항:바베큐는 한 턴에 8팀만 가능하기떄문에 선착순으로 예약가능\n※ 현장결제\n\n[개별바베큐]\n- 이용 객실: 개별 테라스 객실 (25,26,31,41호는 불가) \n- 이용 장소: 개별 테라스\n- 바베큐 형태: 가스+버너\n- 이용 요금:  1SET 10,000원 / 인원수 무관 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 현장결제\n\n[공용수영장]\n[루프탑 공용수영장]\n- 이용 객실: 전 객실\n- 26년도 미운영\n\n[부대시설]\n[오션뷰 테라스]\n- 여수 밤바다와 거북선대교의 야경을 감상할 수 있는 개별 테라스가 준비되어 있습니다.\n※ 25, 26, 31, 41호는 테라스 없음 \n\n[펜션 내 식당]\n- 펜션 1층 '갯뻘소리 낭만포차 77번'\n- 투숙객 10% 할인 제공\n\n[편의점]\n- 펜션 1층에 편의점 위치\n\n[편의 및 주변 시설]\n- 무료 WiFi\n- 옥상 정원/무료\n※ 현장 상황에 따라 이용불가 할 수 있음\n\n[주변관광지]\n- 낭만포차\n- 오동도\n- 여수해상케이블카\n- 여수세계박람회장\n- 해양레일바이크\n- 아쿠아플라넷여수\n- 돌산공원\n- 향일암\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n- 자가용 이용시,석창사거리에서 좌수영로를 따라 1.73km 진행합니다. 산단육교앞에서 돌산방면으로 진행, 엑스포대로를 따라 4.4km 이동합니다. 마래터널 진입 후 엑스포대로 2.5km이동합니다. 오동도 방면에서 이순신광장로를 따라 1km 진행합니다. 종화동 사거리에서 종포해양공원으로 진행, 하멜로를 따라 585m 이동하다보면 거북선펜션이 보입니다.",
+    "usageGuide": "[공지사항]\n- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 전 객실 반려동물 동반이 불가합니다.\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.\n\n[입퇴실안내]\n- 입실: 15시 00분\n- 퇴실: 11시 00분\n- 입실 마감시간: 22시 00분\n※ 22시 이후 입실 시 펜션에 사전 문의 부탁드립니다.\n\n[인원추가정보]\n[연령기준]\n- 성인: 19세 이상\n- 아동: 60개월 이상~19세 미만\n- 유아: 60개월 미만\n\n[추가요금]\n- 결제방법: 후결제(현장결제)\n- 1인당 인원추가비: 성인 20,000원, 아동(만 19세 이하) 10,000원, 유아(만 5세 이하)무료 \n※ 아동유아 기준인원 포함 / 최대인원 초과 불가\n\n[공용바베큐]\n- 이용 장소: 5층 옥상정원 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금:  2~3인:20,000원 / 4~8인:40,000원 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 주의사항:바베큐는 한 턴에 8팀만 가능하기떄문에 선착순으로 예약가능\n※ 현장결제\n\n[개별바베큐]\n- 이용 객실: 개별 테라스 객실 (25,26,31,41호는 불가) \n- 이용 장소: 개별 테라스\n- 바베큐 형태: 가스+버너\n- 이용 요금:  1SET 10,000원 / 인원수 무관 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 현장결제\n\n[공용수영장]\n[루프탑 공용수영장]\n- 이용 객실: 전 객실\n- 26년도 미운영\n\n[부대시설]\n[오션뷰 테라스]\n- 여수 밤바다와 거북선대교의 야경을 감상할 수 있는 개별 테라스가 준비되어 있습니다.\n※ 25, 26, 31, 41호는 테라스 없음 \n\n[펜션 내 식당]\n- 펜션 1층 '갯뻘소리 낭만포차 77번'\n- 투숙객 10% 할인 제공\n\n[편의점]\n- 펜션 1층에 편의점 위치\n\n[편의 및 주변 시설]\n- 무료 WiFi\n- 옥상 정원/무료\n※ 현장 상황에 따라 이용불가 할 수 있음\n\n[주변관광지]\n- 낭만포차\n- 오동도\n- 여수해상케이블카\n- 여수세계박람회장\n- 해양레일바이크\n- 아쿠아플라넷여수\n- 돌산공원\n- 향일암\n\n[주차장]\n- 주차장 보유\n\n[교통편]\n- 자가용 이용시,석창사거리에서 좌수영로를 따라 1.73km 진행합니다. 산단육교앞에서 돌산방면으로 진행, 엑스포대로를 따라 4.4km 이동합니다. 마래터널 진입 후 엑스포대로 2.5km이동합니다. 오동도 방면에서 이순신광장로를 따라 1km 진행합니다. 종화동 사거리에서 종포해양공원으로 진행, 하멜로를 따라 585m 이동하다보면 거북선펜션이 보입니다.",
     "reservationGuide": "- 기준 인원을 제외한 추가 인원(방문객 포함)은 추가 요금이 발생됩니다. (현장 결제)\n- 전 객실 반려동물 동반이 불가합니다.\n- 미성년자는 보호자 동반 없이 입실이 불가합니다.",
     "province": "전라남도",
     "city": "여수시",
@@ -68,7 +68,7 @@
         "id": "ce4fdeda-955b-49f3-b13a-d918d9ed4d4e",
         "name": "공용바베큐",
         "description": "여수 밤바다를 배경으로 숯불 바베큐 파티를 즐겨보세요.",
-        "usageGuide": "- 이용 장소: 5층 옥상정원 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금:  2~4인 : 20,000원 / 5~8인 : 40,000원 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 주의사항:바베큐는 한 턴에 8팀만 가능하기떄문에 선착순으로 예약가능\n※ 현장결제",
+        "usageGuide": "- 이용 장소: 5층 옥상정원 공용바베큐장\n- 바베큐 형태: 숯불\n- 제공 구성: 숯+그릴\n- 이용 요금:  2~3인:20,000원 / 4~8인:40,000원 (1박기준/현장결제)\n- 이용 시간: 17:30~23:00\n※ 주의사항:바베큐는 한 턴에 8팀만 가능하기떄문에 선착순으로 예약가능\n※ 현장결제",
         "displayOrder": 0,
         "images": [
           {
@@ -302,8 +302,8 @@
       {
         "thumbnail": [
           {
-            "id": "b11ec5db-9533-4345-bb36-c9e474b3ccd1",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/UJH7QS54Asrv.jpg",
+            "id": "420979df-7746-4d1e-a77f-e7906ecd9f27",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/vYlZzIUbjNxc.jpg",
             "sortOrder": 1,
             "description": "",
             "isSelected": true,
@@ -312,73 +312,81 @@
         ],
         "exterior": [
           {
-            "id": "8ea3bcc0-8946-4d86-a019-b27a1c294107",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/96dSHC32ilTw.jpg",
+            "id": "48866901-57f5-4cc6-9c8d-003050a3d89b",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/kxhatHDVZFI1.jpg",
             "sortOrder": 2,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "5057dadc-5834-4d06-87ff-aba2ec4ece7a",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/8o4rq1eivMnZ.jpg",
+            "id": "083d0481-306a-49b9-8805-066399b0cc54",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/P2HZdfx0iW7K.jpg",
             "sortOrder": 3,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "dba46ada-1d10-4cd3-8337-8d92e4d33461",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/3GnEf8XYjZ0R.jpg",
+            "id": "4bd78855-a069-46a7-8609-6a832bb03de2",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/NmPTEWViGC27.jpg",
             "sortOrder": 4,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "3b796c85-a9c6-4b89-b788-f5832c0b1cfa",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/FD6z4Y9CINv3.jpg",
+            "id": "c28f89eb-6c9f-4a24-a4bc-e24517f81ad7",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/ScDlamrXxwLO.jpg",
             "sortOrder": 5,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "3f9623d9-1935-4bad-a653-2722a2a4f792",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/Z8fdXl1keWOm.jpg",
+            "id": "5321bc80-6674-4d59-a11a-932d069a21af",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/2q5KseEMiVkm.jpg",
             "sortOrder": 6,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "f1203059-98f4-4bd8-9ada-dddc3d5e7225",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/0xAgGapd1c5U.jpg",
+            "id": "78fa5a60-d44c-4cae-8d89-b121a087dd37",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/4hZdPuH0MAgT.jpg",
             "sortOrder": 7,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "51583e5a-6352-42f2-a774-8b0fac069ce2",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/07/31/IYTkZpNz03O6.jpg",
+            "id": "88ecf7bb-c8e3-4583-86a5-45ccf301003a",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/2CNHXzRbP4ZY.jpg",
             "sortOrder": 8,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "950fc2fc-b80f-4c18-88c3-a343f722f5fc",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/eraF4sQ3TwWM.jpg",
+            "id": "7f0df56e-276b-4c6a-972e-79898e147398",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/Na6uQ98xVdOm.jpg",
             "sortOrder": 9,
             "description": "",
             "isSelected": true,
             "blockId": null
           },
           {
-            "id": "6a24157f-4050-4506-8ca4-82b17452111d",
-            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/05/qEbolVdUpnSe.jpg",
+            "id": "f0ca99f4-5c9c-420f-b306-5b76a0bad5f6",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/gAMF2P1cvCeX.jpg",
             "sortOrder": 10,
+            "description": "",
+            "isSelected": true,
+            "blockId": null
+          },
+          {
+            "id": "1dc935c5-4b41-459e-8c53-8db43905ec69",
+            "url": "https://bookingplay-media.s3.amazonaws.com/item_images/2026/08/10/jJ3TBEuCqx4h.jpg",
+            "sortOrder": 11,
             "description": "",
             "isSelected": true,
             "blockId": null
